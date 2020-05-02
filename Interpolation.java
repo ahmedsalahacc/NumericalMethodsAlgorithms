@@ -1,3 +1,4 @@
+package com.ganzory
 import java.util.Scanner;
 
 
