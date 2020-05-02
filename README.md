@@ -1,5 +1,5 @@
 # NumericalMethodsAlgorithms
-## Some Implemented methods for numerical analysis 
-* including newtons' interpolation technique
-* lagrange interpolation technique
+## Some Implemented methods for numerical analysis  including 
+* Newtons' interpolation technique
+* Lagrange interpolation technique
 * EigenValues and EigenVectors
