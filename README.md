@@ -5,4 +5,11 @@
 * Least Squares Regression
 * Numerical Differentiation
 * Numerical Integration
+
+
+## Requirements
+* Python 3.7 or later
+* matplotlib
+* numpy
+
 #### Note that: these methods have been implemented without the knwoledge of their originaly made algorithms
